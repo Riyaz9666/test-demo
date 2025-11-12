@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: printing hello world
-        run: ech "Hello World!"
+        run: echo "Hello World!"
  
